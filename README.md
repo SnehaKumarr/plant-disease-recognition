@@ -50,7 +50,8 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow in 
   The trained CNN model achieved a test accuracy of **94.89%**, demonstrating high performance in correctly identifying plant diseases from unseen leaf images.
 
 
-
+## Author
+- Sneha Kumar (NITRR)
 
 
 
