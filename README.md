@@ -20,7 +20,8 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow in 
 - PlantVillage dataset from Kaggle: [Link](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 ## Run it in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/plant-disease-recognition/blob/main/plant_disease_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SnehaKumarr
+/plant-disease-recognition/blob/main/plant_disease_model.ipynb)
 
 
 
