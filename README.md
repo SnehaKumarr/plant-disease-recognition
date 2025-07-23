@@ -7,6 +7,20 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow in 
 ## Dataset
 - PlantVillage dataset from Kaggle: [Link](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
+## Dataset Overview
+
+| **Feature**         | **Description**                                                             |
+|---------------------|-----------------------------------------------------------------------------|
+| image             | RGB image of a plant leaf                                                   |
+| label            | Name of the plant and the specific disease (e.g., Tomato___Late_blight)     |
+| plant_species     | Type of plant (e.g., Tomato, Potato, Corn)                                  |
+| disease_type      | Type of disease or "healthy" if no disease present                          |
+| image_dimensions  | Dimensions of the image (commonly 256x256 or resized during preprocessing)  |
+| color_mode        | Image color format (RGB)                                                    |
+| total_classes     | Number of distinct classes (38 in full dataset)                             |
+| dataset_split     | Train/Test/Validation split for model training                              |
+
+
 ## Tech Stack
 
 ### Technologies Used:
